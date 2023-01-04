@@ -1,0 +1,7 @@
+﻿  집합-1-review.cpp
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\집합-1-review\집합-1-review.cpp(96,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\집합-1-review\집합-1-review.cpp(102,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\집합-1-review\집합-1-review.cpp(114,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\집합-1-review\집합-1-review.cpp(120,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\집합-1-review\집합-1-review.cpp(104): warning C4700: 초기화되지 않은 'e' 지역 변수를 사용했습니다.
+  집합-1-review.vcxproj -> C:\Users\JH\Desktop\코테\rookiss\자료구조복습\x64\Debug\집합-1-review.exe

@@ -1,0 +1,5 @@
+﻿  stack3_review.cpp
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\스택3_review\stack3_review.cpp(82,31): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\스택3_review\stack3_review.cpp(165,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\스택3_review\stack3_review.cpp(169,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  스택3_review.vcxproj -> C:\Users\JH\Desktop\코테\rookiss\자료구조복습\x64\Debug\스택3_review.exe

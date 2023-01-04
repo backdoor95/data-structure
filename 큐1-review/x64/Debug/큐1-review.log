@@ -1,0 +1,7 @@
+﻿  que1_review.cpp
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\큐1-review\que1_review.cpp(37,7): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\큐1-review\que1_review.cpp(71,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\큐1-review\que1_review.cpp(73,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\큐1-review\que1_review.cpp(78,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\큐1-review\que1_review.cpp(82,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  큐1-review.vcxproj -> C:\Users\JH\Desktop\코테\rookiss\자료구조복습\x64\Debug\큐1-review.exe

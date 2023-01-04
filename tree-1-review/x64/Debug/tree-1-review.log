@@ -1,0 +1,3 @@
+﻿  tree-1[review].cpp
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\tree-1-review\tree-1[review].cpp(58,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  tree-1-review.vcxproj -> C:\Users\JH\Desktop\코테\rookiss\자료구조복습\x64\Debug\트리1_review.exe

@@ -1,0 +1,2 @@
+﻿  배열4번.c
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\배열4번\배열4번.c(48,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

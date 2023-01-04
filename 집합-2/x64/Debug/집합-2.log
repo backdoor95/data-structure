@@ -1,0 +1,7 @@
+﻿  집합-2.cpp
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\집합-2\집합-2.cpp(112,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\집합-2\집합-2.cpp(116,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\집합-2\집합-2.cpp(121,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\집합-2\집합-2.cpp(125,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\집합-2\집합-2.cpp(110,17): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  집합-2.vcxproj -> C:\Users\JH\Desktop\코테\rookiss\자료구조복습\x64\Debug\집합-2.exe

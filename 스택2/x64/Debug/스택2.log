@@ -1,0 +1,3 @@
+﻿  stack2.cpp
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\스택2\stack2.cpp(68,6): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  스택2.vcxproj -> C:\Users\JH\Desktop\코테\rookiss\자료구조복습\x64\Debug\스택2.exe

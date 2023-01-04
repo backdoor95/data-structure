@@ -1,0 +1,6 @@
+﻿  집합-1.cpp
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\집합-1\집합-1.cpp(110,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\집합-1\집합-1.cpp(115,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\집합-1\집합-1.cpp(131,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\집합-1\집합-1.cpp(137,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  집합-1.vcxproj -> C:\Users\JH\Desktop\코테\rookiss\자료구조복습\x64\Debug\집합-1.exe

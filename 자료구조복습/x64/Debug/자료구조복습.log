@@ -1,0 +1,11 @@
+﻿  List-1_송.c
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\자료구조복습\List-1_송.c(24,3): warning C4013: 'insertFirst'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\자료구조복습\List-1_송.c(46,6): error C2371: 'insertFirst': 재정의. 기본 형식이 다릅니다.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\자료구조복습\List-1_송.c(60,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\자료구조복습\List-1_송.c(87,4): error C2198: 'insert': 호출에 인수가 너무 적습니다.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\자료구조복습\List-1_송.c(88,4): error C2143: 구문 오류: ';'이(가) 'break' 앞에 없습니다.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\자료구조복습\List-1_송.c(75,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\자료구조복습\List-1_송.c(79,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\자료구조복습\List-1_송.c(85,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\자료구조복습\List-1_송.c(91,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\JH\Desktop\코테\rookiss\자료구조복습\자료구조복습\List-1_송.c(96,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
